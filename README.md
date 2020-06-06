@@ -8,7 +8,7 @@ $ sudo apt-get update
 $ sudo apt-get install python3
 ```
 
-## Setup & Run Micro Linux Cleaner
+## Download & Run Micro Linux Cleaner
 ```
 $ wget https://github.com/yellucs/micro-linux-cleaner/blob/master/cleanUp.py
 $ python3 cleanUp.py 
