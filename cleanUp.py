@@ -9,3 +9,4 @@ g = 'sudo apt-get clean'
 cmd = b+a+c+a+d+a+e+a+f+a+g
 
 subprocess.run(cmd, shell=True, check=True)
+#https://github.com/yellucs/micro-linux-cleaner/
