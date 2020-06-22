@@ -12,5 +12,4 @@ $ sudo apt-get install python3 -y
 ```
 $ wget https://raw.githubusercontent.com/yellucs/tiny-linux-cleaner/master/tlclean.py
 $ python3 tlclean.py 
-$ Watch the magic happen :)
 ```
