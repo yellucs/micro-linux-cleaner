@@ -23,4 +23,4 @@ $ python3 tlclean.py
 ```
 
 ## When to use
- Run the script when you would like to update/upgrade/clean your linux based system. DO NOT set the script to autrun, while it is designed to be automatic it should not be run unattended. If you encounter any errors re-running the script should correct it :)
+ Run the script when you would like to update/upgrade/clean your linux based system. DO NOT set the script to autrun, while it is designed to be automatic it should not be run unattended. If you encounter any errors re-running the script after the first pass should correct it :)
