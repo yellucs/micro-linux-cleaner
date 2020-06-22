@@ -22,5 +22,5 @@ $ wget https://raw.githubusercontent.com/yellucs/tiny-linux-cleaner/master/tlcle
 $ python3 tlclean.py 
 ```
 
-## Use
+## When to use
  Run the script when you would like to update/upgrade/clean your linux based system. DO NOT set the script to autrun, while it is designed to be automatic it should not be run unattended. If you encounter any errors re-running the script should correct it :)
