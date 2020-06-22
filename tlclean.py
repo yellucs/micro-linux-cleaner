@@ -1,13 +1,14 @@
 #https://github.com/yellucs/tiny-linux-cleaner/
 import subprocess
-a = ' && '
-b = ' --fix-missing'
-c = 'sudo apt-get update'
-d = 'sudo dpkg --configure -a'
-e = 'sudo apt-get dist-upgrade -y'
-f = 'sudo apt-get upgrade -y'
-g = 'sudo apt-get autoremove -y'
-h = 'sudo apt-get clean'
-cmd = c+b+a+d+a+e+a+f+a+g+a+h+a+c
+a = 'sudo '
+b = ' && '
+c = ' --fix-missing'
+d = a'apt-get update'
+e = a'dpkg --configure -a'
+f = a'apt-get dist-upgrade -y'
+g = a'apt-get upgrade -y'
+h = a'apt-get autoremove -y'
+i = a'apt-get clean'
+cmd = d+c+b+a+e+a+f+a+g+a+h+a+i+d
 
 subprocess.run(cmd, shell=True, check=True)
