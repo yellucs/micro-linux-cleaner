@@ -8,7 +8,7 @@ $ sudo apt-get update
 $ sudo apt-get install python3 -y
 ```
 
-## Download & Run Micro Linux Cleaner
+## Download & Run
 ```
 $ wget https://raw.githubusercontent.com/yellucs/tiny-linux-cleaner/master/tlclean.py
 $ python3 tlclean.py 
