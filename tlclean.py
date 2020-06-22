@@ -1,7 +1,7 @@
 import subprocess
 a = ' && '
-b = 'sudo dpkg --configure -a'
-c = 'sudo apt-get update --fix-missing'
+b = 'sudo apt-get update --fix-missing'
+c = 'sudo dpkg --configure -a'
 d = 'sudo apt-get dist-upgrade -y'
 e = 'sudo apt-get upgrade -y'
 f = 'sudo apt-get autoremove -y'
