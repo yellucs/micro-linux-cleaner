@@ -8,7 +8,7 @@ $ sudo apt-get update
 $ sudo apt-get install python3 -y
 ```
 
-## Download & Run
+## Download & Run with Git
 
 ```
 git clone https://github.com/yellucs/tiny-linux-cleaner.git
@@ -17,7 +17,7 @@ rm tiny-linux-cleaner
 cd tiny-linux-cleaner
 python3 tlclean.py 
 ```
-### Alternative
+#### Alternative
 
 ```
 $ wget https://raw.githubusercontent.com/yellucs/tiny-linux-cleaner/master/tlclean.py
