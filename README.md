@@ -18,7 +18,7 @@ python3 tlclean.py
 #### Alternative Download Method
 
 ```
-$ wget https://raw.githubusercontent.com/yellucs/tiny-linux-cleaner/master/tlclean.py
+$ wget https://github.com/yellucs/tiny-linux-cleaner/raw/master/tlclean.py
 $ python3 tlclean.py 
 ```
 
