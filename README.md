@@ -12,8 +12,6 @@ $ sudo apt-get install python3 -y
 
 ```
 git clone https://github.com/yellucs/tiny-linux-cleaner.git
-unzip tiny-linux-cleaner.zip
-rm tiny-linux-cleaner.zip
 cd tiny-linux-cleaner
 python3 tlclean.py 
 ```
