@@ -1,7 +1,8 @@
 # Tiny Linux Cleaner (TLC)
- Update/upgrade and clean your Linux PC with this tiny python script.
+ Update/upgrade and clean your Linux based PC with this tiny python script.
  This script will perform Linux apt fixes automatically to easily recover from a system crash.
- It will also update repositories, upgrade your packages, and even remove any unused packages. Just by running one python script :)
+ It will also update repositories, upgrade your packages, and even remove any unused packages. 
+ Just by running one python script :)
  
 #### Requirments 
    * Python3
