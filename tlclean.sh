@@ -1,4 +1,5 @@
 #! /bin/bash
+#https://github.com/yellucs/tiny-linux-cleaner
 a='sudo '
 b='apt-get '
 c=' && '
