@@ -39,8 +39,8 @@ $ sudo chmod +x tlclean.sh
 $ ./tlclean.sh
 ```
 ## When to use
-    * Run the script when you would like to update/upgrade/clean your Linux based system. 
-    * When your system has crashed during an update
+   * Run the script when you would like to update/upgrade/clean your Linux based system. 
+   * When your system has crashed during an update
 
 ### Cautions
 DO NOT set the script to autorun, while it is designed to be automatic it should not be run unattended. The time for TLC to finish depends on your system specifications; internet speed and amount of pending updates. If you encounter any errors re-running the script after it first stops should correct it :)
