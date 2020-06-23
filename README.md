@@ -17,7 +17,7 @@ $ git clone https://github.com/yellucs/tiny-linux-cleaner.git
 $ cd tiny-linux-cleaner
 $ python3 tlclean.py 
 ```
-### SSH Version 
+### Shell Script Version 
 ```
 $ git clone https://github.com/yellucs/tiny-linux-cleaner.git
 $ cd tiny-linux-cleaner
