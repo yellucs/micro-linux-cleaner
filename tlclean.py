@@ -1,4 +1,5 @@
 #https://github.com/yellucs/tiny-linux-cleaner/
+#Requires Python3
 import subprocess
 a = 'sudo '
 b = 'apt-get '
