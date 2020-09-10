@@ -1,5 +1,5 @@
 # Tiny Linux Cleaner (TLC)
- Update/upgrade and clean your Linux based PC with this tiny script.
+ At the flick of a switch this tiny script will update, upgrade, optimise and clean your Linux based PC!
  TLC will perform Linux apt fixes automatically to easily recover from a system crash.
  It will also update repositories, upgrade your packages, and even remove any unused packages. 
  
