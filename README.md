@@ -1,6 +1,5 @@
 # Tiny Linux Cleaner (TLC)
  At the flick of a switch this tiny script will update, upgrade, optimise and clean your Linux based PC!
- TLC will perform Linux apt fixes automatically. Use it to easily recover from a system crash.
  
 #### Requirments For Python Version
    * Python3
@@ -39,6 +38,8 @@ $ ./tlclean.sh
 ## When to use
    * Run the script when you would like to update/upgrade/clean your Linux based system. 
    * When your system has crashed during an update
+   * Use it to easily recover from a system crash (power failure, etc.).
+   * TLC will also perform some general Linux apt fixes each time it is used.
 
 ### Cautions
 DO NOT set the script to autorun, while it is designed to be automatic it should not be run unattended. The time for TLC to finish depends on your system specifications; internet speed and amount of pending updates. If you encounter any errors re-running the script after it first stops should correct it :)
