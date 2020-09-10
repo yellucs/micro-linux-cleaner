@@ -12,5 +12,4 @@ h = 'upgrade -y'
 i = 'autoremove -y'
 j = 'clean'
 cmd = a+b+e+d+c+a+f+c+a+b+g+c+a+b+h+c+a+b+i+c+a+b+j+c+a+b+e
-
 subprocess.run(cmd, shell=True, check=True)
