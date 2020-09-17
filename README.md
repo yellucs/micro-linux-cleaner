@@ -23,13 +23,13 @@ $ sudo chmod +x tlclean.sh
 $ ./tlclean.sh
 ```
 
-#### Alternative Download Method
+#### Alternative Download Methods
 
 ```
 $ wget https://github.com/yellucs/tiny-linux-cleaner/raw/master/tlclean.py
 $ python3 tlclean.py 
 ```
-#####
+
 ```
 $ wget https://github.com/yellucs/tiny-linux-cleaner/raw/master/tlclean.sh
 $ sudo chmod +x tlclean.sh
